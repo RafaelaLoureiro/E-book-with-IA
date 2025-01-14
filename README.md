@@ -6,5 +6,5 @@
 - Power Point
   
 ✨ Features
-Conteúdo gerado via ChatGPT
-Imagens geradas via MidJourney
+-Conteúdo gerado via ChatGPT
+-Imagens geradas via MidJourney
